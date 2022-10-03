@@ -1,2 +1,2 @@
-# Practice-Case-Session-6
+# Practice-Case-Session6
 TLC Trip Record
